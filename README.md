@@ -1,7 +1,7 @@
 # TATA-Motors-Closing-Price-Forecasting-with-ARIMA-SARIMA-SARIMAX
 Forecasting 30 days price trend or possible movement in Tata Motor
 ## Analysis and Findings 
-## Insights and Findings 
+
 ## Adjusted colsing price define 
 <img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093226.png">
 
