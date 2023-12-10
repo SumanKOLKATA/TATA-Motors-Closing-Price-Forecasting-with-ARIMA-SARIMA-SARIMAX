@@ -3,6 +3,8 @@ Forecasting 30 days price trend or possible movement in Tata Motor
 ## Analysis and Findings 
 ## Insights and Findings 
 ## Adjusted colsing price define 
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093226.png">
+
 1. Maximum price range has been identified in the preiod of 2016
 2. Drustic fall in stock price has been noticed after 2017 till to 2020
 3. Leadership of Tata group movement toward electric car model boost stock price in 2021 that impact positive in price at 
