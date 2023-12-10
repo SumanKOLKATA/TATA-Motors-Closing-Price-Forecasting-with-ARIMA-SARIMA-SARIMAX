@@ -1,5 +1,5 @@
 # TATA-Motors-Closing-Price-Forecasting-with-ARIMA-SARIMA-SARIMAX
-Forecasting 30 days price trend or possible movement in Tata Motors
+Forecasting 30 days price trend or possible movement in Tata Motor
 ## Analysis and Findings 
 ## Insights and Findings 
 ## Adjusted colsing price define 
@@ -7,7 +7,7 @@ Forecasting 30 days price trend or possible movement in Tata Motors
 2. Drustic fall in stock price has been noticed after 2017 till to 2020
 3. Leadership of Tata group movement toward electric car model boost stock price in 2021 that impact positive in price at 
    (all time hige) ATH around 650
-
+   
 ## Insights and findings 
 1. 50 Days Moving average indicate cross-over of moving avergae line has potentiality of rise in price 
 2. Cross-down of 50 Days moving avergae line represent high potentiality of fall in stock price
