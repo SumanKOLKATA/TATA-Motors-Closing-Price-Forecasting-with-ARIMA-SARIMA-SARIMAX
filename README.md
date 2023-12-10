@@ -10,7 +10,7 @@ Forecasting 30 days price trend or possible movement in Tata Motor
 3. Leadership of Tata group movement toward electric car model boost stock price in 2021 that impact positive in price at 
    (all time hige) ATH around 650
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093226.png">
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093444.png">
   
 ## Insights and findings 
 1. 50 Days Moving average indicate cross-over of moving avergae line has potentiality of rise in price 
