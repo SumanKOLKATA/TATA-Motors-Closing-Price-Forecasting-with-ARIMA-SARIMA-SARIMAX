@@ -24,10 +24,10 @@ Forecasting 30 days price trend or possible movement in Tata Motor
 6. It is defing short term investmnet plan esatblishment 15 Days MA is effective 
 7. 50 Days MA need to be consiosder for long term investment.
   
-## Insights and findings 
-1. 50 MA volume indicate possible movement of stock price whereas excess hike volume impact positive on stock price
-2. 200 MA volume indiacte long term possibility regarding stock price movement
+## Insights and findings (Exponential Moving Average)
+1. 50 EMA volume indicate possible movement of stock price whereas excess hike volume impact positive on stock price
+2. 200 EMA volume indiacte long term possibility regarding stock price movement
 3. Additional imformation comes out huge growth in volume FY 2021 sustain as positive movement of Tata Motors
 4. Middle range volume like (0.3 to 0.5) indiacte consolidation of stock price betweem specific price range.
-5. 50 MA lime above 200 MA indicate positive movement in stock price 
-6. 50 MA lime below 200 MA indicate negative movement in stock price 
+5. 50 EMA lime above 200 MA indicate positive movement in stock price 
+6. 50 EMA lime below 200 MA indicate negative movement in stock price 
