@@ -7,7 +7,8 @@ Forecasting 30 days price trend or possible movement in Tata Motor
 2. Drustic fall in stock price has been noticed after 2017 till to 2020
 3. Leadership of Tata group movement toward electric car model boost stock price in 2021 that impact positive in price at 
    (all time hige) ATH around 650
-   
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+  
 ## Insights and findings 
 1. 50 Days Moving average indicate cross-over of moving avergae line has potentiality of rise in price 
 2. Cross-down of 50 Days moving avergae line represent high potentiality of fall in stock price
