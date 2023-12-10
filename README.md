@@ -12,7 +12,7 @@ Forecasting 30 days price trend or possible movement in Tata Motor
 
 <img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093444.png">
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093444.png">
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 093804.png">
   
 
 ## Insights and findings 
