@@ -48,10 +48,10 @@ d = 1
 
 ## Forecast close price trend by ARIMA 
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 094845.png">
+<img align="center" alt="dataanalysis"  width = "1000" height = "350px" src="Screenshot 2023-12-10 094845.png">
 
 ## Forecast close price trend by SARIMAX 
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-10 094927.png">
+<img align="center" alt="dataanalysis"  width = "1000" height = "350px" src="Screenshot 2023-12-10 094927.png">
 
 
